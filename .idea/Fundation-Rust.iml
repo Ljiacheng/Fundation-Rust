@@ -11,6 +11,7 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/p0003/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/p0832/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/p0867/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/p1178/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0001/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0002/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0003/target" />
@@ -20,6 +21,7 @@
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0867/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p1004/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p1052/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/p1178/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
