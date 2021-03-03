@@ -12,9 +12,11 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/p0832/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/p0867/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/LeetCode/p1178/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LeetCode/p0338/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0001/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0002/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0003/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0338/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0697/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0766/target" />
       <excludeFolder url="file://$MODULE_DIR$/LeetCode/p0832/target" />
