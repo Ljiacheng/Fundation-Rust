@@ -17,10 +17,10 @@
 /// 你能进一步完善解法吗？要求在C++或任何其他语言中不使用任何内置函数（如 C++ 中的 __builtin_popcount）来执行此操作。
 
 pub fn count_bits(num: i32) -> Vec<i32> {
-    let mut res = vec![0;num as usize + 1];
+    let mut res = vec![0];
     for i in 1..=num as usize {
-        if i % 2 == 0 { res[i] = res[i/2] }
-        else { res[i] = res[i-1] + 1; }
+        if i % 2 == 0 { res.push(res[i/2]) }
+        else { res.push(res[i-1] + 1); }
     }
     res
 }
